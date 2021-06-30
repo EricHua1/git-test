@@ -5,6 +5,7 @@ public class GitTest {
         System.out.println("Hello Git 1");
         masterPrint();
         hotFixPrint();
+        System.out.println("push test");
 
     }
     public static void masterPrint(){
