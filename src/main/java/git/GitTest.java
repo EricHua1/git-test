@@ -6,6 +6,7 @@ public class GitTest {
         masterPrint();
         hotFixPrint();
         System.out.println("push test");
+        System.out.println("pull test");
 
     }
     public static void masterPrint(){
